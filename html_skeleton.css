@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h3{
+    color: red;
+    text-align: center;
+    padding: 15px;
+}
+
+div{
+    padding: 20px;
+}
+
+.lorem{
+    border: 2px solid blue;
+    background-color: gold;
+}
+form{
+    padding: 20px;
+    line-height: 30px;
+}
+
+#submit{
+    color: navy;
+    padding: 5px;
+    border-color: green;
+}
